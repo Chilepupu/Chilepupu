@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Chilepupu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 int main()
@@ -44,8 +39,3 @@ int main()
 	}
 	return 0;
 }
-
-<!---
-Chilepupu/Chilepupu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
